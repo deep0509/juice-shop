@@ -185,7 +185,9 @@
     "winston": "^3.16.0",
     "yaml-schema-validator": "^1.2.3",
     "z85": "^0.0.2",
-    "log4js": "2.17.1"
+    "log4js": "2.17.1",
+    "axios": "0.18.0"
+   
   },
   "devDependencies": {
     "@cyclonedx/cyclonedx-npm": "^1.19.3",
